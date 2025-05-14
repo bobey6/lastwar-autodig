@@ -1,0 +1,1 @@
+images will probably not work for you and need to be regenerated because your game client will/may have slightly different size images. You can try to play with the confidence if you think they are close.
